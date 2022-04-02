@@ -12,4 +12,4 @@ Refer to  ENSF614_FinalProject_DesignPhase.pdf in the repository for a detailed 
 
 ---
 # Demo Video
-![](program_demo.gif)
+![](ticket-app.gif)
